@@ -1,7 +1,14 @@
 base_link2os_sensor:
   x: 0.03
-  y: -0.13
+  y: -0.130
   z: 1.646
+  roll: 0.0
+  pitch: 0.0
+  yaw: 3.1415926 
+base_link2gnss:
+  x: -0.37
+  y: 0.0
+  z: 0.18
   roll: 0.0
   pitch: 0.0
   yaw: 0.0
