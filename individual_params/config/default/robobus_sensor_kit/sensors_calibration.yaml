@@ -78,37 +78,37 @@ base_link2ultrasonic_7:
 
 # robobus -- muti lidar
 os_sensor_top2os_sensor_fl:
-  x: 1.19778
-  y: 0.985696
-  z: -0.274625
-  roll: 0.000503734
-  pitch: 0.404289
-  yaw: 1.18824
+  x: 1.27476
+  y: 0.904711
+  z: -0.524352
+  roll: -0.0166414
+  pitch: 0.179825
+  yaw: 1.19581
 os_sensor_top2os_sensor_fr:
-  x: 1.27302
-  y: -0.938876
-  z: -0.321983
-  roll: 3.12404
-  pitch: 2.78467
-  yaw: 2.02177
+  x: 1.19551
+  y: -0.953678
+  z: -0.542749
+  roll: -3.07173
+  pitch: 2.94327
+  yaw:  2.03266
 os_sensor_top2os_sensor_rl:
-  x: -1.18772 
-  y: 0.917774 
-  z: -0.273051
-  roll: -0.0365625 
-  pitch: 0.380607
-  yaw: 2.0172
+  x: -1.10073
+  y: 0.907117
+  z: -0.52023
+  roll: -0.0193096
+  pitch: 0.168289
+  yaw: 1.92758
 os_sensor_top2os_sensor_rr:
-  x: -1.1625
-  y: -1.0063
-  z: -0.264678
-  roll: -3.12977
-  pitch: 2.76326
-  yaw: 1.1705
+  x: -1.13432
+  y: -0.969587
+  z: -0.556525
+  roll: 3.08264
+  pitch: 2.90432
+  yaw: 1.18529
 base_link2os_sensor_top:
   x: 0.00
-  y: -0.100
-  z: 1.7
+  y: -0.000
+  z: 1.9
   roll: 0.0
   pitch: 0.0
   yaw: 0.0
@@ -121,9 +121,9 @@ os_sensor_top2camera:
   pitch: 0.00713767
   yaw: -1.55820481
 base_link2gnss:
-  x: -0.37
+  x: -1.35
   y: 0.0
-  z: 0.18
+  z: 0.0
   roll: 0.0
   pitch: 0.0
   yaw: 0.0
