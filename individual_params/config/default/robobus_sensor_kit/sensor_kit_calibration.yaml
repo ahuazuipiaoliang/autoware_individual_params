@@ -1,12 +1,12 @@
 sensor_kit_base_link:
 # camera
   traffic_light_left_camera:
-    x: 1.080
-    y: 0.173
-    z: -0.016
-    roll: -1.572
-    pitch: -0.017
-    yaw: -1.590
+    x: -4.191470538107646
+    y: 0.4329878375060655
+    z: 0.9353013779120738
+    roll: -0.0012349012359048404
+    pitch: 0.039852980735146475
+    yaw: 0.052244142711741146
   zed:
     x: 0.787
     y: -0.031
@@ -25,7 +25,21 @@ sensor_kit_base_link:
 
 # lidar
   # The laser coordinate system is the y-axis toward the front of the car.
+  # os_sensor_top:
+  #   x: 5.363
+  #   y: -0.099
+  #   z: -1.150
+  #   roll: -3.048
+  #   pitch: -0.007
+  #   yaw: 0.002
   os_sensor_top:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  os_sensor_ancillary:
     x: 0.0
     y: 0.0
     z: 0.0
